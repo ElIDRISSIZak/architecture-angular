@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+.cards {
+
+  min-height: 100px;
+}
+.cards h4 {
+  color: #1a26ff;
+}
+#header-content {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  overflow: hidden;
+
+}
+#header-conten {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+}
